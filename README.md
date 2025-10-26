@@ -1,4 +1,3 @@
-# Mobile-Price-Range-4-class-MLP-Keras
 # 📱 Mobile Price Range — 4-class MLP (Keras)
 # 手机价格分档 — 4 类多层感知机神经网络 (Keras)
 
